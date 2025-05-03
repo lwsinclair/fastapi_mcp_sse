@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/panz2018-fastapi-mcp-sse-badge.png)](https://mseep.ai/app/panz2018-fastapi-mcp-sse)
+
 # FastAPI MCP SSE
 
 <p align="center">
